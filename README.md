@@ -34,6 +34,8 @@ Este dashboard explora el catálogo de contenidos de Amazon Prime Video, present
 - Rango de años: 1920 a 2021
 
 ## 🧠 Aprendizajes
+![AMAZONBI](https://github.com/user-attachments/assets/c1312e7f-7fb0-42fd-ae00-823a3c492a4c)
+
 
 - Uso de Power Query para limpieza básica de datos
 - Aplicación de filtros cruzados y segmentaciones visuales
